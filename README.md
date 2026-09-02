@@ -6,7 +6,7 @@ A Windows, Python script that plays an inaudible tone to keep those types of ann
 
 In the case it isn't working, simply create via Copy-Paste a SECOND WinSpeakerKeepAwake.pyw inside of shell:startup - it will be equally as inaudible to you, but more audible to your speakers. Add more copies of WinSpeakerKeepAwake.pyw to shell:startup as needed until your speaker stops turning off automatically.
 
-Right now keeping **3** copies of WinSpeakerKeepAwake.pyw in shell:startup works for me.
+Right now keeping **FOUR** copies of WinSpeakerKeepAwake.pyw in shell:startup works for me.
 
 **IMPORTANT: Ensure that the correct device is set as your default audio device- have the speaker that automatically shuts off be set as the primary/default!**
 
